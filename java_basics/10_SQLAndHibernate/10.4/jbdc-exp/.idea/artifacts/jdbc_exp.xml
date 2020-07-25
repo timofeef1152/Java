@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jdbc-exp">
+    <output-path>$PROJECT_DIR$/out/artifacts/jdbc_exp</output-path>
+    <root id="archive" name="jdbc-exp.jar" />
+  </artifact>
+</component>
